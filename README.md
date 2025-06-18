@@ -161,7 +161,7 @@ git push origin feature/your-feature
 - 开发图形用户界面(GUI)
 
 ## 📜 许可证
-本项目采用 [MIT License](https://github.com/github-linguist/linguist?tab=MIT-1-ov-file#)，欢迎自由使用和修改。
+本项目采用 [MIT License](https://github.com/11Record/TongXunLu/blob/master/LICENSE)，欢迎自由使用和修改。
 
 ---
 
